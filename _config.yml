@@ -1,2 +1,3 @@
 name: Yuxuan Xu, Florence
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
